@@ -1,5 +1,4 @@
-# Udacity Nanodegree: Data Scientist
-# Capstone: Starbucks Classification
+# Udacity Nanodegree: Starbucks Capstone Project: Unveiling the Impact of Demographic Features on Offer Completion in Starbucks Rewards Program
 ## Project Overview and Motivation
 
 The project aimed to analyze customer behavior within the Starbucks rewards mobile app and develop a machine learning model capable of predicting whether a customer would complete an offer.
