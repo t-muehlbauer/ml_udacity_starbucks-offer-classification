@@ -27,7 +27,8 @@ The project aimed to bridge the gap between demographic characteristics and offe
 By leveraging machine learning techniques, it sought to provide actionable insights for targeted marketing strategies and personalized offer recommendations, benefiting the Starbucks rewards program and enhancing customer engagement.
 
 ## Medium Article
-/url
+[/url
+](https://medium.com/@thomas-muehlbauer/udacity-nanodegree-starbucks-capstone-project-unveiling-the-impact-of-demographic-features-on-72df12097cc3)
 
 ## Acknowledgement
 I would like to express my gratitude to Udacity for providing an exceptional learning experience through their comprehensive courses and resources. 
