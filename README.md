@@ -17,6 +17,12 @@ The dataset comprised various features, including demographic information such a
 - Model Development: Constructed a machine learning model, considering feature importance and prediction accuracy.
 - Evaluation: Utilized metrics such as accuracy and F1 score to assess the model's performance.
 
+## Key Findings:
+
+- Model Accuracy: The Gradient Boosting Classifier achieved an impressive accuracy score of 91%, showcasing its proficiency in predicting offer completion within the Starbucks rewards program.
+- Feature Importance: Time, reward, and income emerged as the most critical factors influencing offer completion, guiding strategic decision-making.
+- Model Robustness: With an F1 score of 0.91 for class 0 and 0.59 for class 1, the model displays a balanced approach in accurately identifying completed offers.
+
 ## Conclusion
 The project aimed to bridge the gap between demographic characteristics and offer completion rates. 
 By leveraging machine learning techniques, it sought to provide actionable insights for targeted marketing strategies and personalized offer recommendations, benefiting the Starbucks rewards program and enhancing customer engagement.
